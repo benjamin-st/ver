@@ -1,4 +1,4 @@
-deb 2.8.7
+deb 2.8.8
 eas 0.5.0.3
 fly 3.0.2
 fre 2.8
@@ -6,7 +6,7 @@ gep 4.11.0
 kbu 1.9
 sim 2.15.2
 tuo 2.2
-bro 3.2
+bro 3.3
 wif 2.7.0.5
 vcs 1.26.20
 npv 1.4
